@@ -18,6 +18,7 @@ public class TestMain {
 		student.stInfo("Rahim", 101);
 		student.stInfo(101, "Rahim", "Jaman");
 		student.stSchool("Queens School	", "Queens,NY");
+        student.stSchool("Elmhurst School", "Elmhurst,NY");
 
 
 
